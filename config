@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	ignorecase = true
+[remote "oringin"]
+	url = https://github.com/Fibo1123581321/menu.git
+	fetch = +refs/heads/*:refs/remotes/oringin/*
+[remote "origin"]
+	url = https://github.com/Fibo1123581321/menu.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
